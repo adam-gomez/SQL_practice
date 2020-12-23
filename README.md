@@ -1,0 +1,1 @@
+This repository will hold various SQL-related practice problems and their solutions, starting with the practice from [SQL Zoo](www.sqlzoo.net).
